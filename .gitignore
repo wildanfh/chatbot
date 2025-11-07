@@ -1,0 +1,10 @@
+# Node modules
+node_modules/
+
+# WhatsApp-web.js session folder
+.wwebjs_auth
+.wwebjs_cache
+
+# Optional: file log atau environment
+*.log
+.env
