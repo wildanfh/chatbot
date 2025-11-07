@@ -32,8 +32,8 @@ This is a WhatsApp bot powered by **Ollama** (offline LLM) and **WhatsApp Web.js
 1. Clone this repository:
 
 ```bash
-git clone <your-repo-url>
-cd <repo-folder>
+git clone [<chatbot>](https://github.com/wildanfh/chatbot.git)
+cd <chatbot>
 ````
 
 2. Install dependencies:
